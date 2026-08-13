@@ -12,7 +12,7 @@ This is the definitions clause for this guide. Each definition may or may not ca
 
 Lawyers: In this guide, the word "lawyers" means "litigation lawyers"; not lawyers who engage only in transactions and consulting. And it definitely does not include "teachers and judges". The excluded categories aforementioned are sometimes, the result of destroyed lives of lawyers.
 
->Mind: You know; that thing a lawyer actually needs, which you are intending to destroy.
+Mind: You know; that thing a lawyer actually needs, which you are intending to destroy.
 
 Lives: This word does not mean to include the economical status of a lawyer. So, when using the word "lives" the guide is figuratively referring to the word "souls".
 
