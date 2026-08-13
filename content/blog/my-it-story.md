@@ -1,7 +1,7 @@
 ---
 title: My IT Story
 description: My journey into the IT profession.
-date: 2018-05-01
+date: 2022-10-05
 tags:
   - computing
   - life
