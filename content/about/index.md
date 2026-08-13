@@ -6,6 +6,8 @@ eleventyNavigation:
 ---
 # About Me
 
+{% image "./basil-ajith-and-family.png", "Basil Ajith, Alfia Abubaker, and Ezra Don Basil" %}
+
 This blog is where I write about my faith in Jesus Christ, my wife Alfia and our son Ezra, our life in general, my journey in the IT industry, random experiments I do with programming, some of my projects, tutorials, hardware, and everything else related to IT that I am interested in, and a bit about movies, music, the Law, laws, the legal profession, history, and politics.
 
 That is a lot of stuff bundled together. So, the title "undefined" is a fitting title for this blog. It is also a play on the programming data type found in the JavaScript programming language. It is a prank to make people think that there is some kind of bug in the front-end code and the name of the blog is not being displayed correctly!
