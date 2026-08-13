@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 # About Me
 
-{% image "./basil-ajith-and-family-pic.png", "Basil Ajith, Alfia Abubaker, and Ezra Don Basil" %}
+<img src="./basil-ajith-and-family.png" alt="Basil Ajith and Family" width="200"/>
 
 This blog is where I write about my faith in Jesus Christ, my wife Alfia and our son Ezra, our life in general, my journey in the IT industry, random experiments I do with programming, some of my projects, tutorials, hardware, and everything else related to IT that I am interested in, and a bit about movies, music, the Law, laws, the legal profession, history, and politics.
 

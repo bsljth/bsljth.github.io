@@ -1,5 +1,5 @@
 module.exports = {
-	title: "undefined | Basil Ajith's online cave.",
+	title: "undefined",
 	url: "https://undefined.pyfy.ch/",
 	language: "en",
 	description: "Basil Ajith's online cave.",
