@@ -12,4 +12,4 @@ That is a lot of stuff bundled together. So, the title "undefined" is a fitting 
 
 I was a practising advocate in India till early 2021. I was able to switch to a career in IT that year to join a tech-empowered non-profit working in the social development sector (I am still working for the organisation as a DevOps engineer). Before that, I was a computing hobbyist trying my hand at developing small scripts/programmes and playing with Linux. 
 
-I have hopped between a lot of programming languages such as Python, JavaScript, Go, and Nim. However, I have now settled on TypeScript as my go-to language. My desire is to create my own programming language one day. I have named it already (not a difficult thing to do): Radix.
+I have hopped between a lot of programming languages such as Python, JavaScript, Go, and Nim. However, I have now settled on TypeScript as my go-to language. My desire is to create my own programming language one day. I have named it already (not a difficult thing to do): **Radix**.
