@@ -7,9 +7,9 @@ tags:
   - computing
   - nim
 ---
-I wrote my first ever library using the Nim programming language. You can check it out at its GitHub repo. It's called `<a href="https://github.com/bsljth/printo">printo</a>` (pronounced "print-o"). 
+I wrote my first ever library using the Nim programming language. You can check it out at its GitHub repo. It's called `[printo](https://github.com/bsljth/printo)` (pronounced "print-o"). 
 
-It's a small library. I was initially worried whether it is worth making and making it public. Then, I read the story of `left-pad`[](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/">]([https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/)`left-pad`[) and the controversy around it]([https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/).
+It's a small library. I was initially worried whether it is worth making and making it public. Then, I read the story of [`left-pad` and the controversy around it](https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/).
 
 FYI, left-pad was an NPM library that was being used by thousand other projects for adding some padding to a string (yeah, it's true). The controversy around the library was that the author decided to pull the plug on one not-so-fine day which led to the thousand projects using it to break (at least some might have). This was big news.
 
