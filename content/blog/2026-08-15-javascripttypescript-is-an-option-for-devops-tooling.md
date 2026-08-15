@@ -11,4 +11,9 @@ tags:
   - sre
   - node.js
   - deno
+  - bash
+  - python
+  - go
 ---
+Bash, Python, and now Go are popular options (in the order mentioned) for DevOps tooling. I argue that JavaScript/TypeScript ("JS/TS") is also a good option for the same.
+
