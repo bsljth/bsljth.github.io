@@ -17,3 +17,5 @@ tags:
 ---
 Bash, Python, and now Go are popular options (in the order mentioned) for DevOps tooling. I argue that JavaScript/TypeScript ("JS/TS") is also a good option for the same.
 
+The ecosystem (Node, Deno, and Bun) now supports exporting single executable binaries (some ironing left).
+
